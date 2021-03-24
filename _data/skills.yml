@@ -1,0 +1,12 @@
+- skill:
+  name: Programming languages
+  value: Javascript, TypeScript, Nodejs
+- skill:
+  name: Frameworks
+  value: React Native, Redux, Realm, Express js
+- skill:
+  name: Data Management
+  value: Firebase,Mongodb
+- skill:
+  name: Tools
+  value: Git, GitHub, JIRA, Trello, Figma, Zeplin, Adobe XD

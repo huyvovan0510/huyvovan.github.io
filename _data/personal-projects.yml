@@ -1,0 +1,9 @@
+intro: "I do this together with another friend of mine, In this project. I take on every role in the development of each feature from Product Owner, App Developer, BE developer to Tester..."
+projects:
+  - project:
+    title: Been Alone
+    link: "https://apps.apple.com/us/app/been-alone-alone-days-counter/id1550501406"
+    time: Dec 2020 - Present
+    description: "Alone date counter, safety diary and social network to connect lonely guys Take 10 days to get top 1 Life-style trending on App Store and get 57k users."
+    position: "Owner"
+    technologies: "React Native, Firebase"

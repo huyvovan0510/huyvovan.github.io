@@ -1,0 +1,38 @@
+# Site Settings
+title: "Huy Vo Van"
+description: "Resume of Huy Vo Van"
+url: "http://chienduongminh.blogspot.com/"
+baseurl: "https://minhchienwikipedia.github.io" #change it according to your repository name
+about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+#Profile information
+name: "Huy Vo Van"
+tagline: Mobile Developer
+pic: https://avatars.githubusercontent.com/u/40355281?s=460&u=8bb4e3a9f1a025b30ce75355f3dce20f313369d7&v=4 #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: "Enthusiastic mobile developer with 1,5+ years of experience. Ability to self-study new technologies, eager to learn something new. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I have experience working in the product company, able to withstand stress with work hard. Hope to become an international developer in the future, to work and learn in a professional international working environment."
+
+#sidebar links
+email: vahuy307@gmail.com
+phone: +84 357 027 911
+linkedin: Huyvovan
+#Update all the sections by editing the files inside _data folder.
+
+# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+#education_in_main: True
+
+# Tracker
+analytics: UA-119187154-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development

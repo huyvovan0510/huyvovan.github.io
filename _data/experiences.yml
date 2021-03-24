@@ -1,0 +1,31 @@
+- experience:
+  role: Mobile Developer
+  time: March 2020 - Present
+  company: MoMo
+  details:
+    - detail:
+      value: Build MiniApp, projects for Momo Application
+    - detail:
+      value: Build game "MoMo Academy" on Momo app v3.0
+    - detail:
+      value: Build feature Lucky Money 2021
+    - detail:
+      value: Support team build game "Lắc Xì 2021"
+    - detail:
+      value: Build Momo Chat Feature 
+    - detail:
+      value: Build and improve features Contact-core , momo-merchant ,loyalty 
+   
+- experience:
+  role: Mobile Developer
+  time: June 2019 - Feb 2020
+  company: Appfast - Color Life
+  details:
+    - detail:
+      value: Participated developed new features for mobile apps
+    - detail:
+      value: Build UI UX for company's mobile app products of Appfast - Color Life with react-native code Work with web team and design team to ensure UI consistency between web and mobile and the correct render configs to display on mobile
+    - detail:
+      value: Contribute ideas with purpose improve features and optimize performance for mobile app products
+
+

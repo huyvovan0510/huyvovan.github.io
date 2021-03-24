@@ -1,0 +1,37 @@
+intro: "Side projects."
+projects:
+  - project:
+    title: MoMo
+    link: "https://momo.vn/"
+    time: Mar 2020 - Present
+    description: "Super app Payment online in Vietnam"
+    position: "Mobile developer"
+    technologies: "React Native, Java, Objective-C, Swift"
+  - project:
+    title: Been Alone
+    link: "https://www.beenalone.com/"
+    time: Dec 2020 - Present
+    description: "Alone date counter, safety diary and social network to connect lonely guys"
+    position: "Mobile developer"
+    technologies: "React Native, Firebase"
+  - project:
+    title: AppFast
+    link: "https://www.appfast.io/"
+    time:  June 2019 - Feb 2020
+    description: "Mobile app development platform ,Build application without coding knowledge"
+    position: "Mobile developer"
+    technologies: "React Native, ReactJs, Nodejs, Socket.IO"
+  - project:
+    title: Appnewsvn 
+    link: "https://www.appnewsvietnam.vn/"
+    time:  June 2019 - Feb 2020
+    description: "Platform for building News apps of VIETNAM MINISTRY OF INFORMATION AND COMMUNICATION"
+    position: "Mobile developer"
+    technologies: "React Native, ReactJs, Nodejs, Socket.IO"
+  - project:
+    title: Estay
+    link: "#"
+    time: Mar 2019 
+    description: "App Booking hotel"
+    position: "Mobile developer"
+    technologies: "React Native, ExpressJs"
